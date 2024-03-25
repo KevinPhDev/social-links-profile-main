@@ -12,3 +12,7 @@ body {
 .social-links-card {
   width: 360px;
 }
+
+.profile-picture {
+  border-radius: 50%;
+}
