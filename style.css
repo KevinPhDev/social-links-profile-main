@@ -33,3 +33,11 @@ body {
 .link-list > * {
   padding: 10px 140px;
 }
+
+.name {
+  margin-bottom: 10px;
+}
+
+.location {
+  margin-bottom: 25px;
+}
