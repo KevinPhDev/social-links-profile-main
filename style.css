@@ -22,3 +22,7 @@ body {
 .profile-picture {
   border-radius: 50%;
 }
+
+.link-list > * {
+  padding: 10px 140px;
+}
