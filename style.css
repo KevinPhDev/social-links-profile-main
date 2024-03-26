@@ -31,6 +31,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
+  color: white;
 }
 
 .link-list > * {
