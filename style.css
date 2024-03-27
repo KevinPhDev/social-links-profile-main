@@ -19,6 +19,7 @@ body {
   padding: 30px;
   gap: 30px;
   background-color: hsl(0, 0%, 12%);
+  border-radius: 15px;
 }
 
 .profile-picture {
@@ -34,9 +35,10 @@ body {
   color: white;
 }
 
-.link-list > * {
+.social-link {
   padding: 10px 140px;
   background-color: hsl(0, 0%, 20%);
+  border-radius: 5px;
 }
 
 .name {
