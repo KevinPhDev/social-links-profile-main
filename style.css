@@ -41,6 +41,11 @@ body {
   border-radius: 5px;
 }
 
+.social-link:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
+
 .name {
   margin-bottom: 10px;
 }
